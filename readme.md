@@ -9,11 +9,11 @@
     <img src="https://os-web-cdn.mobage.tw/cdn/web/global_sd/static/main/img/loading.gif" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hands ON 2</h3>
+  <h3 align="center">Seatwork 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- Welcome to my Hero and Card Display website with distinct desings including static designs of heroes and both static and animated versions of cards using HTML and CSS.
+
 </div>
 
 <br />
@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project Its about creating a hero and card gallery website
-- Whats the purpose The purpose  is to showcase distinct designs of various heroes and card website
+- What is the project
+- Whats the purpose 
 - What are key components
-- What technology used and how it is used: Using pure HTML and CSS, 
+- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
