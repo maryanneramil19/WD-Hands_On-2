@@ -1,0 +1,138 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333333;
+}
+
+header {
+    background-image: url('../img/Deuter-Trail.png');
+    background-size: cover;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 50px 0;
+    text-align: center;
+    height: 100dvh;
+}
+.home-button {
+    background-color: #1a717c;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    margin: 20px 0;
+    position: absolute;
+    top: 20px;
+    justify-content: flex-end;
+    right: 20px;
+}
+.home-button:hover {
+background-color: #1a717c;
+}
+
+.advice-section {
+    padding: 20px;
+}
+
+.advice {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.advice img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    border-right: 1px solid #cccccc;
+}
+
+.advice-info {
+    padding: 15px;
+    flex: 1;
+}
+
+.advice-info h2 {
+    color: #333333;
+    margin-top: 0;
+}
+
+.advice-info p {
+    color: #666666;
+}
+
+.view-now {
+    margin-bottom: 5px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.view-now a {
+    background-color: #1a717c;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.view-now a:hover {
+    background-color: #968e8e;
+}
+
+/*footer*/
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-nav {
+    list-style-type: none;
+    display: flex;
+}
+ 
+.footer-nav li {
+    margin-right: 20px;
+}
+
+.footer-nav li:last-child {
+    margin-right: 0;
+}
+
+.footer-nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.footer-social {
+    list-style-type: none;
+    display: flex;
+}
+
+.footer-social li {
+    margin-right: 10px;
+}
+
+.footer-social li:last-child {
+    margin-right: 0;
+}
+
+.footer-social a {
+    text-decoration: none;
+    color: #666;
+}
+ 
