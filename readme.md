@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-
+  Welcome to my Feature Display Pages. This showcases a distinct design layouts featuring various features of a website using pure HTML and CSS.
 </div>
 
 <br />
@@ -57,26 +57,19 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose 
-- What are key components
-- What technology used and how it is used
+The Feauture Display website is multi-page designed for seatwork 4 to practice with HTML and CSS skills. This project showcases a distinct design layouts featuring various features of a website using pure HTML and CSS. The purpose of this project is to demonstrate different layout designs and navigation techniques, as well as to practice HTML and CSS skills.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Landing Page
+- Feature 1 Page
+- Feature 2 Page
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +110,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Suzuki Cars Philippines website | Used as a reference for feature 1 | https://auto.suzuki.com.ph |
+| Deuter Website | Used as a reference for feature 2 | https://www.deuter.com | 
