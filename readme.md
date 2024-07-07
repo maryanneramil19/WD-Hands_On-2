@@ -65,6 +65,8 @@ The Feauture Display website is multi-page designed for seatwork 4 to practice w
 - Landing Page
 - Feature 1 Page
 - Feature 2 Page
+- MultiPage Website
+- Responsive
 
 ### Technology
 <!-- TODO: List of Technology Used -->
