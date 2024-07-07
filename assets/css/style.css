@@ -1,0 +1,78 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100dvh;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.landing-page {
+    background: url('../img/mt.Iglit.jpg') no-repeat center center fixed; 
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.content {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 68px;
+    margin: 0;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 52px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.feature-section {
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
+
+.box {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 1px;
+    object-fit: cover;
+    z-index: 0;
+    opacity: 1;
+}
+.box-text {
+    color: beige;
+    font-size: 28px;
+    padding: 2px;
+    z-index: 1;
+    position: relative;
+}
+.box img:hover {
+    transform: scale(1.1);
+}
+
+
